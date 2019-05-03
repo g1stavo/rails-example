@@ -1,6 +1,6 @@
 # rails-example
 
-Ruby on Rails [Getting Started](http://guides.rubyonrails.org/getting_started.html) sample application.
+Ruby on Rails [Getting Started](http://guides.rubyonrails.org/getting_started.html) sample application
 
 ### Applications built with Rails
 
